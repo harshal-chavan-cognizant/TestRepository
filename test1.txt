@@ -2,3 +2,6 @@ Test line 1.
 Test line 2.
 Test line 3.
 Test file 4.
+Test file 5.
+
+Adding one line
